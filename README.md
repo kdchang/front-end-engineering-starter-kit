@@ -1,16 +1,14 @@
 # Front End Team Starter Kit 
 ## Introduction
-This is the Front End Team Starter Kit Document for NOE(New Onboard Engineer).
-
-## Coding Convenstion
-TPA
+This is Front End Engineering Resource Document for NOE(New Onboard Engineer).
 
 ## Learning Resources
 ### Development Language
 - HTML5
     1. [w3schools](http://www.w3schools.com/html/)
+    
 - CSS3
-    2. [w3schools](http://www.w3schools.com/css/default.asp)
+    1. [w3schools](http://www.w3schools.com/css/default.asp)
 
 - JavaScript
     1. [MDN](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript)
@@ -19,6 +17,7 @@ TPA
 - ES6(JavaScript 2015) 
     1. [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
     2. [ECMAScript 6 入门-阮一峰](http://es6.ruanyifeng.com/)
+    
 - React
     1. [Official Website](https://facebook.github.io/react/)
     2. [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
@@ -42,6 +41,18 @@ TPA
 
 - Node.js
     1. [Official Website](https://nodejs.org/en/)
+    
+- Angular
+    1. [Shaping up with Angular.js Play Course for Free](https://www.codeschool.com/courses/shaping-up-with-angular-js)
+    
+- jQuery
+
+### CSS Preprocessor
+- SASS/LESS
+
+### CSS Framework
+- Bootstrap
+    1. [Bootstrap](http://getbootstrap.com/)
 
 ### Task Runner 
 - Gulp
@@ -69,7 +80,14 @@ TPA
 - Mocha
 - Jasamin
 
-## Design Pattern
+### UI Pattern
+- Mobile
+    1. [Pttrns: Mobile Design Patterns](http://pttrns.com/)
+
+- Web
+    1. [UI-patterns](http://ui-patterns.com/patterns)
+
+### Design Pattern
 1. [4 JavaScript Design Patterns You Should Know](https://scotch.io/bar-talk/4-javascript-design-patterns-you-should-know)
 2. [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
