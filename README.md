@@ -1,5 +1,6 @@
+# Front End Team Starter Kit 
 ## Introduction
-This is the Front End Team Resource Document for NOE(New Onboard Engineer).
+This is the Front End Team Starter Kit Document for NOE(New Onboard Engineer).
 
 ## Coding Convenstion
 TPA
