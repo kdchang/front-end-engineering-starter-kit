@@ -43,9 +43,6 @@ TPA
 - Node.js
     1. [Official Website](https://nodejs.org/en/)
 
-- CPMUI
-    1. [Tutorial](http://10.128.4.34:3000/cpmui)
-
 ### Task Runner 
 - Gulp
     1. [gulp 入門指南](https://987.tw/2014/07/09/gulpru-men-zhi-nan/)
