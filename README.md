@@ -17,6 +17,7 @@ This is Front End Engineering Resource Document for NOE(New Onboard Engineer).
 - ES6(JavaScript 2015) 
     1. [Learn ES2015](https://babeljs.io/docs/learn-es2015/)
     2. [ECMAScript 6 入门-阮一峰](http://es6.ruanyifeng.com/)
+    3. [React on ES6+](https://babeljs.io/blog/2015/06/07/react-on-es6-plus)
     
 - React
     1. [Official Website](https://facebook.github.io/react/)
