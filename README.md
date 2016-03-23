@@ -11,15 +11,12 @@ This is Front End Engineering Resource Document for NOE(New Onboard Engineer).
 5. We have some old tasks use [Angular](https://angularjs.org/) and [jQuery](https://jquery.com/). If you want to pick some skills about Angular. Please check [Shaping up with Angular.js Play Course for Free](https://www.codeschool.com/courses/shaping-up-with-angular-js).
 
 ## Coding Convenstion
-1. We use camel case for Naming convention.
-2. Avoid global variable.
-
 [Ref.Front-end Code Standards](https://isobar-idev.github.io/code-standards/)
 
 - React based
 [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
-PS. We follow ES6 standards. [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/) 
+About React ES6 standards. [React.createClass versus extends React.Component](https://toddmotto.com/react-create-class-versus-component/)
 
 ## Learning Resources
 ### Development Language
